@@ -1,0 +1,12 @@
+{
+    "name": "Compliment Tab",
+    "version": "1.0",
+    "manifest_version": 2,
+    "chrome_url_overrides": {
+        "newtab": "gradient.html"
+    },
+    "permissions": [
+        "storage",
+        "tabs"
+    ]
+}
